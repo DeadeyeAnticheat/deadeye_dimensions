@@ -19,6 +19,13 @@ It features extremely performant **automatic interior detection**, removing the 
 
 ---
 
+## 🎥 Showcase Video
+A gameplay showcase will be added here soon.
+
+▶️ Coming soon
+
+---
+
 ## 🧠 How It Works
 Players entering interiors are automatically moved into separate dimensions.
 
