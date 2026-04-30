@@ -1,6 +1,5 @@
 # 🎯 Deadeye Dimensions – RedM Interior Dimension System
 
-## 📌 Overview
 Deadeye Dimensions is an advanced dimension system for RedM servers using RoutingBuckets, designed to minimize OneSync and player density issues.
 
 Unlike traditional solutions, this script introduces **automatic interior detection**, eliminating the need to manually create PolyZones for every building.
