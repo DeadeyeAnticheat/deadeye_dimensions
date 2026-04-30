@@ -3,7 +3,7 @@
 ## Overview
 Deadeye Dimensions is an advanced dimension system for RedM servers designed to solve OneSync limitations and player density issues.
 
-Unlike traditional solutions like fx-channel, this script introduces **automatic interior detection**, eliminating the need to manually create PolyZones for every building.
+Unlike traditional solutions, this script introduces **automatic interior detection**, eliminating the need to manually create PolyZones for every building.
 
 ## Features
 - Automatic interior detection (no PolyZones required)
