@@ -53,3 +53,11 @@ https://deadeyeac.com
 
 ## 📜 License
 Unauthorized redistribution or resale is prohibited.
+
+## 🙏 Credits
+This project is inspired by:  
+https://github.com/Fixitfy/fx-channel/tree/Fixitfy
+
+Deadeye Dimensions was fully rewritten from scratch and includes several quality-of-life improvements and enhancements, especially for larger servers and better overall usability.
+
+Visit https://fixitfy.fragmentor.io for more great RedM scripts and resources.
