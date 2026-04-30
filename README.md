@@ -25,14 +25,14 @@ This prevents overcrowding and sync issues by distributing players across multip
 
 ## 🏠 Interior Modes
 
-### ✅ Whitelist Mode
-Only selected interiors will use the dimension system.
-
 Use the command:
 ```
 /getInteriorId
 ```
 to retrieve the interior ID and add it to your config.
+
+### ✅ Whitelist Mode
+Only selected interiors will use the dimension system.
 
 ### 🚫 Blacklist Mode
 All interiors are automatically detected, except those explicitly excluded.
