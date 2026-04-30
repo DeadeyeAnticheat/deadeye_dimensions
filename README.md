@@ -5,7 +5,7 @@ Deadeye Dimensions is an advanced dimension system for RedM servers using Routin
 Unlike traditional solutions, this script introduces **automatic interior detection**, eliminating the need to manually create PolyZones for every building.
 
 ## 🚀 Features
-- 🔍 Automatic interior detection (no PolyZones required)
+- 🔍 Automatic interior detection
 - 📦 Optional PolyZone support
 - ⚙️ Whitelist & blacklist system for interiors
 - 👥 Solves 32 player limit issues using dimensions
