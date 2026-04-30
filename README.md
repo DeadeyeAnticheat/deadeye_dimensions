@@ -68,7 +68,7 @@ Optional notifications can be enabled when a player switches dimensions.
 - `/getInteriorId` → Returns the current interior ID
 
 ## 🔗 Compatibility
-- Standalone
+- Vorp-Framework
 - PolyZone (if you don't want to use PolyZone just remove line 19 in the fxmanifest and disable it in Config.Modules)
 
 ## 📜 License
