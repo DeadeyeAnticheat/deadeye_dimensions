@@ -97,6 +97,18 @@ Optional notifications can be enabled when a player switches dimensions.
 
 ---
 
+## 📊 Discord Server & Support
+Join our Discord for support, updates, and announcements:  
+👉 https://discord.gg/DU5eb5vJ4q
+
+---
+
+## 🛒 More Scripts & Resources
+Looking for more advanced RedM scripts and tools?  
+👉 https://deadeyeac.com
+
+---
+
 ## 📜 License
 This project is protected. Unauthorized redistribution or resale is prohibited.
 
