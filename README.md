@@ -74,7 +74,3 @@ https://deadeyeac.com
 
 ## 📜 License
 Unauthorized redistribution or resale is prohibited.
-
----
-
-RedM, dimensions, routing buckets, interior system, OneSync, RDR2 multiplayer script
