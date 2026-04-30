@@ -34,7 +34,6 @@ This reduces congestion and improves server performance by distributing players 
 2. Ensure it in `server.cfg`  
 3. Configure in config file  
 
-### PolyZone (optional)
 If you do not want to use PolyZone:
 - Remove it from `fxmanifest.lua`
 - Disable it in `Config.Modules`
