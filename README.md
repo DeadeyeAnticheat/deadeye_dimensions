@@ -8,9 +8,9 @@ Unlike traditional solutions, this script introduces **automatic interior detect
 - 🔍 Automatic interior detection
 - 📦 Optional PolyZone support
 - ⚙️ Whitelist & blacklist system for interiors
-- 👥 Solves 32 player limit issues using dimensions
-- 🔄 Reduces OneSync sync problems
-- 📡 Dynamic activation based on player density (radius-based)
+- 👥 Prevents 32 player limit issues using dimensions (RoutingBuckets)
+- 🔄 Reduces OneSync problems
+- 📡 Dynamic activation based on player density
 - 🐎 Entity synchronization:
   - Horses
   - Vehicles
@@ -75,11 +75,9 @@ Optional notifications can be enabled when a player switches dimensions.
 
 ## 🔗 Compatibility
 - Standalone
-- VORP
-- RedEM
+- PolyZone (if you don't want to use PolyZone just remove line 19 in the fxmanifest and disable it in Config.Modules)
 
 ## 📜 License
 This project is protected. Unauthorized redistribution or resale is prohibited.
 
-## 🔎 Keywords
 RedM script, RedM dimensions, RedM interior system, RedM OneSync fix, RDR2 multiplayer script, RedM instance system, RedM performance
